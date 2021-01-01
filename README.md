@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+- 🔭 I’m currently working on ...
+  + Problem Solving & algorithm practice
+  
+- 🌱 I’m currently learning ...
+  + Bishop's Pattern Recognition and Machine Learning
+  
+  
+
 <!--
 **philos1234/philos1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
