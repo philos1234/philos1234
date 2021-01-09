@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning ...
   + Bishop's Pattern Recognition and Machine Learning
-  
+  + ML competition
   
 
 <!--
