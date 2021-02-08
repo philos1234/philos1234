@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on ...
   + Problem Solving & algorithm practice
-  
+  + Web - backend learning
 - 🌱 I’m currently learning ...
-  + Bishop's Pattern Recognition and Machine Learning
-  + ML competition
+  + Web
+  + ML 
   
 
 <!--
