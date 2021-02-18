@@ -7,8 +7,7 @@
   + Web - backend learning
 - 🌱 I’m currently learning ...
   + Web
-  + ML 
-  
+
 
 <!--
 **philos1234/philos1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
