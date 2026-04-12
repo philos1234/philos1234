@@ -1,6 +1,4 @@
 
-분야를 가리지 않고 배우는 것을 즐기려합니다
-
 - 🔭 I’m currently working on ... Hackle
 - 📫 How to reach me: ohhyun1948@gmail.com
 
